@@ -1,5 +1,6 @@
 --[[
     Author: Thunderstorm441
+    Mentainer: WilderMO
     https://github.com/Thunderstorm441/ts_spawnselect
 ]]--
 --CONFIG
