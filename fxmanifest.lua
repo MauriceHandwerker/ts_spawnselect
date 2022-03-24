@@ -7,5 +7,6 @@ version '1.1.0'
 
 -- What to run
 client_scripts {
-    'spawnselect_client.lua',
+    '@NativeUI/NativeUI.lua',
+    'spawnselect_client.lua'
 }
